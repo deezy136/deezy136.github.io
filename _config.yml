@@ -1,11 +1,11 @@
 # Site settings
-author: Clyde Griffin
-title: 
+author: Clyde  Griffin
+title: Why I decide to study software engineering?
 header-img: img/home-bg.png
 email: deezy13@gmail.com
-copyright_name: Clyde Griffin
+copyright_name: Clyde  Griffin
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Posted by Clyde Griffin on February 3, 2020
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  deezy136
