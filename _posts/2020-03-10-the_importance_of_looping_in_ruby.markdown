@@ -20,7 +20,7 @@ i+=1
 
 end ``
 ```
-The above code shows us that, instead of writing (puts “Hello World’) 10 times, the while loop accomplishes this for us with fewer lines of code. In conclusion, the true importance of looping in ruby, is so that a programmer does not have to repeat  the same line of code a number of times. Instead write efficient, eloquent code with far fewer lines of code.
+The above code shows us that, instead of writing (puts “Hello World’) 10 times, the while loop accomplishes this for us with fewer lines of code. In conclusion, the true importance of looping in ruby, is so that a programmer does not have to repeat  the same line of code a number of times. Instead write efficient, eloquent code with far fewer lines.
 
 
 
