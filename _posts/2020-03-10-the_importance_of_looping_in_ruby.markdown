@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "The Importance Of Looping In Ruby"
-date:       2020-03-10 08:21:30 +0000
+date:       2020-03-10 04:21:31 -0400
 permalink:  the_importance_of_looping_in_ruby
 ---
 
